@@ -1,0 +1,11 @@
+[package]
+name = "khaiii-rs"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+
+[build-dependencies]
+cmake = "0.1.48"
+bindgen = "0.59.2"
